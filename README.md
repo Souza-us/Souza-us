@@ -59,10 +59,9 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 <summary><b>💻 Ambiente de Engenharia de Software</b></summary>
 
 - **Backend / Scripts:** Lógica estruturada e automações robustas com Python e Java
+</details>
 
 ---
-
-
 
 ## 🤝 Conecte-se Comigo
 
