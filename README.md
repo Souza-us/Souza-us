@@ -26,10 +26,8 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 ## 📊 Estatísticas do GitHub
 
-Souza-us
-
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Felipe" height="180px"/>
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Souza-us" height="180px"/>
   <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
