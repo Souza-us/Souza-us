@@ -18,30 +18,46 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 | Categoria | Competências |
 | :--- | :--- |
-| **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp; 🔹 JavaScript |
+| **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp;
 | **Banco de Dados** | 🔹 SQL |
-| **Ferramentas & BI** | 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel &nbsp;&nbsp; 🔹 Git |
+| **Ferramentas & BI** | 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel &nbsp;&nbsp; 🔹
+
 
 ---
 
 ## 💻 Conhecimento Técnico Prático
 
-- **Desenvolvimento:** Construção de scripts automatizados e lógica em Python e Java.
-- **Dados & BI:** Modelagem de dados com SQL estruturado e criação de dashboards analíticos com Power BI e Excel.
-- **Infraestrutura:** Conhecimentos práticos voltados para arquitetura de Redes de Computadores e princípios de Cyber Security.
+| Categoria | Competências |
+| :--- | :--- |
+| **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp; |
+| **Análise de Dados & BI** | 🔹 Pandas (Python) &nbsp;&nbsp; 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel |
+| **Banco de Dados** | 🔹 SQL |
+| **Cyber & Infraestrutura**| 🔹 Kali Linux &nbsp;&nbsp; 🔹 Git |
+
+<p align="left">
+  <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/> 
+  <img alt="Power BI" title="Power BI" width="35px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="Excel" title="Excel" width="35px" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
+  <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Kali Linux" title="Kali Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"/>
+</p>
 
 ---
 
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/fersou-dev">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com_" target="_blank">
-    <img src="https://shields.io" alt="Instagram Badge"/>
+
+  <a href="https://www.instagram.com/s0uuza_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="mailto:fersou.dev404@gmail.com">
-    <img src="https://shields.io" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
