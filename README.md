@@ -21,7 +21,7 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 | **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp; |
 | **Análise de Dados & BI** | 🔹 Pandas (Python) &nbsp;&nbsp; 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel |
 | **Banco de Dados** | 🔹 SQL |
-| **Cyber & Infraestrutura**| 🔹 Kali Linux &nbsp;&nbsp; 🔹|
+| **Cyber & Infraestrutura**| 🔹 Kali Linux &nbsp;&nbsp; |
 
 <p align="left">
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
