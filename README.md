@@ -26,7 +26,7 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 ## 📊 Estatísticas do GitHub
 
-*Substitua **Souza-us** pelo seu nome de usuário exato do GitHub para ativar os gráficos automaticamente.*
+Souza-us
 
 <p align="left">
   <img src="https://vercel.app" alt="Estatísticas do GitHub de Felipe" height="180px"/>
