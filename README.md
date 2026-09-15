@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Sobre Me
+## 📖 Sobre Mim
 
 Sou estudante de **Ciência da Computação na UNIFACS**, com forte interesse e foco em **Cyber Security, Desenvolvimento de Software, Banco de Dados e Análise de Redes**. 
 
@@ -16,20 +16,19 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
+| Categoria | Competências |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) |
-| **Banco de Dados** | ![SQL](https://shields.io) |
-| **Ferramentas & BI** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) ![Git](https://shields.io) |
+| **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp; 🔹 JavaScript |
+| **Banco de Dados** | 🔹 SQL |
+| **Ferramentas & BI** | 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel &nbsp;&nbsp; 🔹 Git |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💻 Conhecimento Técnico Prático
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Felipe" height="180px"/>
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px"/>
-</p>
+- **Desenvolvimento:** Construção de scripts automatizados e lógica em Python e Java.
+- **Dados & BI:** Modelagem de dados com SQL estruturado e criação de dashboards analíticos com Power BI e Excel.
+- **Infraestrutura:** Conhecimentos práticos voltados para arquitetura de Redes de Computadores e princípios de Cyber Security.
 
 ---
 
