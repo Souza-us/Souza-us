@@ -35,6 +35,33 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 ---
 
+### 🛠️ Divisão por Ecossistemas 
+
+💡 Dica: Clique nos títulos abaixo para expandir e ver os detalhes de cada ambiente de trabalho.
+
+<details>
+<summary><b>🛡️ Ambiente de Cyber Security & Infraestrutura</b></summary>
+
+- **SO Principal para Testes:** Kali Linux (Penetration Testing)
+- **Controle de Versão:** Git / GitHub para versionamento seguro
+- **Foco de Estudo:** Análise de vulnerabilidades e topologias de redes
+</details>
+
+<details>
+<summary><b>📈 Ambiente de Análise de Dados & BI</b></summary>
+
+- **Manipulação de Dados:** Biblioteca Pandas para limpeza e tratamento via código
+- **Visualização de Dados:** Dashboards interativos e modelagem DAX no Power BI
+- **Ferramentas Corporativas:** Relatórios, matrizes e automações em Microsoft Excel
+</details>
+
+<details>
+<summary><b>💻 Ambiente de Engenharia de Software</b></summary>
+
+- **Backend / Scripts:** Lógica estruturada e automações robustas com Python e Java
+
+---
+
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
