@@ -61,6 +61,9 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 - **Backend / Scripts:** Lógica estruturada e automações robustas com Python e Java
 
 ---
+
+
+
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
