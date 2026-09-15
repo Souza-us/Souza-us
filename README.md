@@ -18,17 +18,6 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 | Categoria | Competências |
 | :--- | :--- |
-| **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp;
-| **Banco de Dados** | 🔹 SQL |
-| **Ferramentas & BI** | 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel &nbsp;&nbsp; 🔹
-
-
----
-
-## 💻 Conhecimento Técnico Prático
-
-| Categoria | Competências |
-| :--- | :--- |
 | **Linguagens** | 🔹 Python &nbsp;&nbsp; 🔹 Java &nbsp;&nbsp; |
 | **Análise de Dados & BI** | 🔹 Pandas (Python) &nbsp;&nbsp; 🔹 Power BI &nbsp;&nbsp; 🔹 Microsoft Excel |
 | **Banco de Dados** | 🔹 SQL |
