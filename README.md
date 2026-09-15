@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Sobre Mim
+## 📖 Sobre Me
 
 Sou estudante de **Ciência da Computação na UNIFACS**, com forte interesse e foco em **Cyber Security, Desenvolvimento de Software, Banco de Dados e Análise de Redes**. 
 
@@ -18,7 +18,7 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://shields.io) ![Java](https://shields.io)
+| **Linguagens** | ![Python](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) |
 | **Banco de Dados** | ![SQL](https://shields.io) |
 | **Ferramentas & BI** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) ![Git](https://shields.io) |
 
@@ -27,7 +27,7 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Souza-us" height="180px"/>
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Felipe" height="180px"/>
   <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
@@ -36,10 +36,10 @@ Hoje, direciono essa maturidade corporativa e minha paixão por tecnologia para 
 ## 🤝 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/fersou-dev" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/s0uuza_" target="_blank">
+  <a href="https://instagram.com_" target="_blank">
     <img src="https://shields.io" alt="Instagram Badge"/>
   </a>
   <a href="mailto:fersou.dev404@gmail.com">
